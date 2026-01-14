@@ -1,0 +1,18 @@
+p{
+    background-color: blueviolet;
+    color: aquamarine;
+    font-size: 18px;
+
+} h1 {
+    text-align: center;
+}
+div {
+    background-color: bisque;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px;
+}
+
+.info{
+    color: blue;
+}

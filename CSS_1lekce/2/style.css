@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: system-ui;
+
+}
+.wrap {
+    padding: 16px;
+}
+.panel{
+    width: 400px;
+    height: 400px;
+    background-color: bisque;
+
+    border-width: 10px;
+    border-style: solid;
+    border-color: blueviolet;
+
+    display: grid;
+    place-items: center;
+    margin-bottom: 16px;
+        display: grid;
+    place-items: center;
+
+}
+.weird{
+    width: 400px;
+    height: 400px;
+    border-width: 10px;
+     background-color: chocolate;
+     border-left-style: dashed;
+     border-top-style: dotted;
+     border-right-style: solid;
+     border-bottom-style: double;
+
+}
+.card{
+    width: 200px;
+    height: 200px;
+    background-color: azure;
+    border: 5px solid yellow;
+    display: grid;
+    place-items: center;
+}
+   
