@@ -1,0 +1,67 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #ffffff;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+ 
+.greg {
+    background: white;
+    padding: 30px;
+    border-radius: 20px;
+    width: 320px;
+    text-align: center;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+}
+ 
+.embryo {
+    width: 80px;
+    height: 80px;
+    background: linear-gradient(135deg, #3b77da, #002f94);
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+    border-radius: 50%;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto 15px;
+}
+ 
+ 
+.chouda {
+    font-size: 15px;
+    color: gray;
+    margin-bottom: 15px;
+}
+ 
+.brambora {
+    font-size: 14px;
+    color: black;
+    margin-bottom: 20px;
+}
+ 
+.chrt {
+    margin-bottom: 20px;
+}
+ 
+.chrt span {
+    background: #b6cbf7;
+    padding: 6px 12px;
+    border-radius: 20px;
+    margin: 3px;
+    font-size: 12px;
+
+}
+ 
+button {
+    background: #2563eb;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+ 
